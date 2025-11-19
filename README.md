@@ -1,6 +1,6 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name:       </h3>
-<h3>Register Number:           </h3>
+<h3>Name: Akshay M      </h3>
+<h3>Register Number: 212224240009          </h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
@@ -49,6 +49,8 @@
     end (while loop)
 
 ``````
+<h3>Program:</h3>
+```
 
 <hr>
 <h2>Sample Graph I</h2>
@@ -89,6 +91,8 @@ J 0 <br>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
+<h2>Output:</h2>
+<img width="871" height="898" alt="image" src="https://github.com/user-attachments/assets/2ddf856c-8ddc-4c67-af04-961ff0a30f81" />
 
 <hr>
 <h2>Sample Graph II</h2>
@@ -117,3 +121,10 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+<h2>Output:</h2>
+
+<img width="794" height="775" alt="image" src="https://github.com/user-attachments/assets/b9f5a41f-fbcf-43b3-8f91-be5649cf193d" />
+
+<h3>Result:</h3>
+The Python program to Implement A * Search algorithm for a Graph has been executed successfully.
